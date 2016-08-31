@@ -1,0 +1,10 @@
+{
+  "name": "peerio-commit",
+  "version": "1.0.0",
+  "description": "Peerio Commitizen adapter for npm",
+  "bin": "./commit-cli.js",
+  "dependencies": {
+    "commitizen": "^2.8.6",
+    "cz-conventional-changelog": "^1.2.0"
+  }
+}
