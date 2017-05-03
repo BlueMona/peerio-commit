@@ -5,7 +5,7 @@
   "bin": "./commit-cli.js",
   "dependencies": {
     "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^1.2.0"
+    "cz-conventional-changelog": "^2.0.0"
   },
   "repository" : {
     "type" : "git",
